@@ -33,8 +33,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ## Contents
 
-- [Docs \& Quickstarts](#docs--quickstarts)
-- [Books \& Articles](#books--articles)
+- [Docs \& Quickstarts](#docs-amp-quickstarts)
+- [Books \& Articles](#books-amp-articles)
 - [ADS-B Aggregators](#ads-b-aggregators)
   - [Non-profits](#non-profits)
   - [Open source](#open-source)
