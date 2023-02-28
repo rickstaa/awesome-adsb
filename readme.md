@@ -118,6 +118,10 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Orange Pi](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html) - Single-board computers created using OS cost-effective hardware.
 - [Banana Pi](https://banana-pi.org/) - Single-bard computers created by a Chinese open-source hardware community.
 
+### Filters
+
+- [FlightAware Signal filters](https://flightaware.store/collections/signal-filters) - Different signal filters made by FlightAware.
+
 ### Receivers
 
 - [FlightAware ADS-B usb receivers](https://flightaware.com/adsb/prostick/) - ADS-B usb receivers made by FlightAware.
