@@ -41,6 +41,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
   - [Commercial](#commercial)
 - [Software](#software)
 - [Hardware](#hardware)
+  - [SBC](#sbc)
+  - [Receivers](#receivers)
+  - [Antennas](#antennas)
 - [Follow](#follow)
 
 <!-- CONTENT -->
@@ -49,7 +52,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List ADS-B documentation and quickstarter guides -->
 
-- [ADS-B Docker Guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
+- [ADS-B docker guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
+- [ADS-B equipment guide](https://sdr-enthusiasts.gitbook.io/ads-b/intro/equipment-needed) - A excellent ADS-B hardware guide written by the community.
+- [PiAware ADS-B tutorial](https://flightaware.com/adsb/piaware/build/) - FlightAware's ADS-B setup tutorial.
 
 ## ADS-B Aggregators
 
@@ -107,7 +112,20 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List ADS-B hardware resources. -->
 
-- [ADS-B equipment guide](https://sdr-enthusiasts.gitbook.io/ads-b/intro/equipment-needed)
+### SBC
+
+- [Rasbpberry Pi](https://www.raspberrypi.org/) -  Small single-board computers developed in the United Kingdom.
+- [Orange Pi](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html) - Single-board computers created using OS cost-effective hardware.
+- [Banana Pi](https://banana-pi.org/) - Single-bard computers created by a Chinese open-source hardware community.
+
+### Receivers
+
+- [FlightAware ADS-B usb receivers](https://flightaware.com/adsb/prostick/) - ADS-B usb receivers made by FlightAware.
+- [AirNav RadarBox ADS-B usb receivers](https://www.radarbox.com/store) - ADS-B usb receivers made by RadarBox.
+
+### Antennas 
+
+- [Vinnant premium antennas](https://vinnant.sk/) - Specialized premium antennas made in Slovakia.
 
 ## Follow
 
