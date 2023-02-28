@@ -42,6 +42,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Software](#software)
 - [Hardware](#hardware)
   - [SBC](#sbc)
+  - [Filters](#filters)
   - [Receivers](#receivers)
   - [Antennas](#antennas)
 - [Follow](#follow)
@@ -129,7 +130,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Antennas 
 
-- [Vinnant premium antennas](https://vinnant.sk/) - Specialized premium antennas made in Slovakia.
+- [Vinnant antennas](https://vinnant.sk/) - Specialized premium antennas made in Slovakia.
+- [DPD antennas](morecorgis) - High-quality antennas for various radio services produced in the USA.
 
 ## Follow
 
