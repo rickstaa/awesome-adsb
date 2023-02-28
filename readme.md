@@ -86,8 +86,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 > The commercial aggregators below adhere to the [FAA](https://www.faa.gov/)'s [Aircraft Tail Number Blocking/Unblocking list](https://www.faa.gov/pilots/ladd/request) list. Therefore, the data found on these platforms is filtered and may not include all data found on the aggregators above.
 
 - [FlightRadar24](https://www.flightradar24.com) - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
-- [RadarBox](https://www.radarbox.com) - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking.
 - [FlightAware](https://flightaware.com) - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products.
+- [RadarBox](https://www.radarbox.com) - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking.
 - [ADS-B Exchange](https://www.adsbexchange.com/) - A flight tracking company that offers high fidelity, stable, and secure flight tracking service. It was started by volunteers and flight enthusiasts but was recently acquired by [JETNET](https://www.jetnet.com/).
 - [PlaneFinder.net](https://planefinder.net) - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
 - [AvDelphi](https://www.avdelphi.com) - An aviation data and services company that shows airframes, registrations, types, airports and flights, radar and nav points, and owner and flight histories.
@@ -101,6 +101,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 - [sdr-enthusiasts/docker-multifeeder](https://github.com/sdr-enthusiasts/docker-multifeeder) - Feed multiple ADS-B and MLAT aggregators from a single container.
+- [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) - Easy to use feeder install script for feeding to [adsb.fi](https://adsb.fi/).
 
 ## Hardware
 
