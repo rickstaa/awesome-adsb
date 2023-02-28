@@ -8,7 +8,7 @@
 
 <!--lint ignore double-link-->
 
-# [Awesome ADS-B](https://github.com/rickstaa/awesome-adsb) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/rickstaa/awesome-adsb/actions/workflows/lint.yaml/badge.svg)](https://github.com/rickstaa/awesome-adsb/actions/workflows/lint.yaml) [![GitHub contributors](https://img.shields.io/github/contributors/rickstaa/awesome-adsb?color=geen)](https://github.com/rickstaa/awesome-adsb/stargazers) [![GitHub Repo stars](https://img.shields.io/github/stars/rickstaa/awesome-adsb)](https://github.com/rickstaa/awesome-adsb/graphs/contributors) <!-- omit in toc -->
+# <a style="color: inherit" href="https://github.com/rickstaa/awesome-adsb">Awesome ADS-B</a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/rickstaa/awesome-adsb/actions/workflows/lint.yaml/badge.svg)](https://github.com/rickstaa/awesome-adsb/actions/workflows/lint.yaml) [![GitHub contributors](https://img.shields.io/github/contributors/rickstaa/awesome-adsb?color=geen)](https://github.com/rickstaa/awesome-adsb/stargazers) [![GitHub Repo stars](https://img.shields.io/github/stars/rickstaa/awesome-adsb)](https://github.com/rickstaa/awesome-adsb/graphs/contributors) <!-- omit in toc -->
 
 > **Note**
 > Just type `adsb.cool` to go here.
