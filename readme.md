@@ -107,10 +107,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List ADS-B hardware resources. -->
 
-<!--lint ignore double-link-->
-
-> **TODO:**
-> Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you know good hardware guides/resources.
+- [ADS-B equipment guide](https://sdr-enthusiasts.gitbook.io/ads-b/intro/equipment-needed)
 
 ## Follow
 
