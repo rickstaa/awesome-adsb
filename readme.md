@@ -88,6 +88,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [FlightRadar24](https://www.flightradar24.com) - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
 - [RadarBox](https://www.radarbox.com) - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking.
 - [FlightAware](https://flightaware.com) - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products.
+- [ADS-B Exchange](https://www.adsbexchange.com/) - A flight tracking company that offers high fidelity, stable, and secure flight tracking service. It was started by volunteers and flight enthusiasts but was recently acquired by [JETNET](https://www.jetnet.com/).
 - [PlaneFinder.net](https://planefinder.net) - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
 - [AvDelphi](https://www.avdelphi.com) - An aviation data and services company that shows airframes, registrations, types, airports and flights, radar and nav points, and owner and flight histories.
 
@@ -96,6 +97,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!-- list ADS-B software, apps and docker containers. -->
 
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
+- [readsb](https://github.com/wiedehopf/readsb) - ADS-B decoder swiss knife.
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 
