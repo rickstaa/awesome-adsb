@@ -131,7 +131,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ### Antennas 
 
 - [Vinnant antennas](https://vinnant.sk/) - Specialized premium antennas made in Slovakia.
-- [DPD antennas](morecorgis) - High-quality antennas for various radio services produced in the USA.
+- [DPD antennas](https://dpdproductions.com/) - High-quality antennas for various radio services produced in the USA.
 
 ## Follow
 
