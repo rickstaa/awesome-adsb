@@ -34,6 +34,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ## Contents
 
 - [Docs \& Quickstarts](#docs--quickstarts)
+- [Books \& Articles](#books--articles)
 - [ADS-B Aggregators](#ads-b-aggregators)
   - [Non-profits](#non-profits)
   - [Open source](#open-source)
@@ -42,8 +43,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Software](#software)
 - [Hardware](#hardware)
   - [SBC](#sbc)
-  - [Filters](#filters)
   - [Receivers](#receivers)
+  - [Filters](#filters)
   - [Antennas](#antennas)
 - [Follow](#follow)
 
@@ -56,6 +57,13 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [ADS-B docker guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
 - [ADS-B equipment guide](https://sdr-enthusiasts.gitbook.io/ads-b/intro/equipment-needed) - A excellent ADS-B hardware guide written by the community.
 - [PiAware ADS-B tutorial](https://flightaware.com/adsb/piaware/build/) - FlightAware's ADS-B setup tutorial.
+- [ADSB-B transponders guide](https://www.sportys.com/blog/ads-b-out-questions-1090-978/) - A guide explaining the difference between 978 and 1090 MHz transponders.
+
+## Books & Articles
+
+<!-- List interesting ADS-B books and articles -->
+
+- [The 1090 Megahertz Riddle - Junzi Sun](https://mode-s.org/decode/index.html) - A Guide to Decoding Mode S and ADS-B Signals.
 
 ## ADS-B Aggregators
 
@@ -104,6 +112,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
 - [readsb](https://github.com/wiedehopf/readsb) - ADS-B decoder swiss knife.
+- [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 - [sdr-enthusiasts/docker-multifeeder](https://github.com/sdr-enthusiasts/docker-multifeeder) - Feed multiple ADS-B and MLAT aggregators from a single container.
@@ -115,20 +124,24 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### SBC
 
-- [Rasbpberry Pi](https://www.raspberrypi.org/) -  Small single-board computers developed in the United Kingdom.
+- [Rasbpberry Pi](https://www.raspberrypi.org/) - Small single-board computers developed in the United Kingdom.
 - [Orange Pi](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html) - Single-board computers created using OS cost-effective hardware.
 - [Banana Pi](https://banana-pi.org/) - Single-bard computers created by a Chinese open-source hardware community.
 
-### Filters
-
-- [FlightAware Signal filters](https://flightaware.store/collections/signal-filters) - Different signal filters made by FlightAware.
-
 ### Receivers
 
-- [FlightAware ADS-B usb receivers](https://flightaware.com/adsb/prostick/) - ADS-B usb receivers made by FlightAware.
-- [AirNav RadarBox ADS-B usb receivers](https://www.radarbox.com/store) - ADS-B usb receivers made by RadarBox.
+- [FlightAware ADS-B USB receivers](https://flightaware.store/collections/radio-dongles) - ADS-B USB receivers made by FlightAware.
+- [AirNav RadarBox ADS-B USB receivers](https://www.radarbox.com/store) - ADS-B USB receivers made by RadarBox.
 
-### Antennas 
+### Filters
+
+> **Warning**
+> Some ADS-B USB receivers already contain an onboard filter.
+
+- [FlightAware Signal filters](https://flightaware.store/collections/signal-filters) - Different signal filters made by FlightAware.
+-
+
+### Antennas
 
 - [Vinnant antennas](https://vinnant.sk/) - Specialized premium antennas made in Slovakia.
 - [DPD antennas](https://dpdproductions.com/) - High-quality antennas for various radio services produced in the USA.
