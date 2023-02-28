@@ -139,7 +139,6 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 > Some ADS-B USB receivers already contain an onboard filter.
 
 - [FlightAware Signal filters](https://flightaware.store/collections/signal-filters) - Different signal filters made by FlightAware.
--
 
 ### Antennas
 
