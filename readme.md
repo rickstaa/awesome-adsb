@@ -49,7 +49,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List ADS-B documentation and quickstarter guides -->
 
-- [ADSB Docker Guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
+- [ADS-B Docker Guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
 
 ## ADS-B Aggregators
 
@@ -65,16 +65,16 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List open source ADS-B aggregators. -->
 
-- [ADSB.lol](https://adsb.lol) - An Open Source flight tracker that collects ADS-B, UAT, and MLAT data to provide open data to everybody.
-- [ADSB.one](https://adsb.one) - Open source ADSB aggregator.
+- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide. We provide open and unfiltered access to worldwide air traffic data.
+- [adsb.one](https://adsb.one) - Open source ADS-B aggregator.
+- [adsb.lol](https://adsb.lol) - An Open Source flight tracker that collects ADS-B, UAT, and MLAT data to provide open data to everybody.
 
 ### Community driven
 
 <!-- List community driven ADS-B aggregators. -->
 
-- [ADSB.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide. We provide open and unfiltered access to worldwide air traffic data.
-- [TheAirTraffic.com](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
-- [ADSBHub](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters and radio amateurs.
+- [TheAirTraffic](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
+- [ADSBHub.com](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters and radio amateurs.
 - [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with 1 million photos and information on 50000 aircraft.
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
 
@@ -88,14 +88,14 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [FlightRadar24](https://www.flightradar24.com) - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
 - [RadarBox](https://www.radarbox.com) - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking.
 - [FlightAware](https://flightaware.com) - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products.
-- [Planefinder.net](https://planefinder.net) - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
+- [PlaneFinder.net](https://planefinder.net) - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
 - [AvDelphi](https://www.avdelphi.com) - An aviation data and services company that shows airframes, registrations, types, airports and flights, radar and nav points, and owner and flight histories.
 
 ## Software
 
 <!-- list ADS-B software, apps and docker containers. -->
 
-- [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADSB data.
+- [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 
@@ -104,6 +104,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!-- List ADS-B hardware resources. -->
 
 <!--lint ignore double-link-->
+
 > **TODO:**
 > Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you know good hardware guides/resources.
 
@@ -112,6 +113,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!-- List people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 <!--lint ignore double-link-->
+
 > **TODO:**
 > Please [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you know people in the ADS-B space that are worth following.
 
@@ -132,6 +134,7 @@ Contributions of any kind are welcome :blue_heart:! Please check out the [contri
 ### Contributors
 
 <!--lint ignore double-link-->
+
 This project exists thanks to all the people [that contributed](https://github.com/rickstaa/awesome-adsb/graphs/contributors)!
 
 <!--lint ignore double-link-->
