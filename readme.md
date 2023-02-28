@@ -131,7 +131,7 @@ Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issue
 
 ## Contributing
 
-Contributions of any kind are welcome :blue_heart:! Please check out the [contributing guidelines](contributing.md).
+Contributions of any kind are welcome 💙! Please check out the [contributing guidelines](contributing.md).
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
