@@ -75,20 +75,25 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 - [Opensky Network](https://opensky-network.org) - A non-profit that collects air-traffic data and makes it available unfiltered and raw for academic and institutional researchers.
 
+### Open Data
+
+<!--- List aggregators that make data freely available through Open Licenses. https://resources.data.gov/open-licenses/ -->
+
+- [ADSB.lol](https://adsb.lol) - 100% open source flight tracker. [Free API data](https://api.adsb.lol/) licensed under [ODbL](https://opendatacommons.org/licenses/odbl/summary/). [Reproducible deployment from scratch](https://github.com/adsblol/infra) using Kubernetes.
+- [ADSBHub.org](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters and radio amateurs. Data without restrictions as long as you are sharing data from at least one ADS-B station.
+
 ### Open source
 
 <!-- List open source ADS-B aggregators. -->
 
 - [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide. We provide open and unfiltered access to worldwide air traffic data.
 - [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
-- [ADSB.lol](https://adsb.lol) - Entirely open-source flight tracker + [API](https://api.adsb.lol/) for reproducible deployment from scratch using Kubernetes.
 
 ### Community driven
 
 <!-- List community driven ADS-B aggregators. -->
 
 - [TheAirTraffic](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
-- [ADSBHub.com](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters and radio amateurs.
 - [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with 1 million photos and information on 50000 aircraft.
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
 
@@ -117,6 +122,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 - [sdr-enthusiasts/docker-multifeeder](https://github.com/sdr-enthusiasts/docker-multifeeder) - Feed multiple ADS-B and MLAT aggregators from a single container.
 - [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) - Easy to use feeder install script for feeding to adsb.fi.
+- [adsblol/feed](https://github.com/adsblol/feed) -  Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
 
 ## Hardware
 
