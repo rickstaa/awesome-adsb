@@ -80,8 +80,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!-- List open source ADS-B aggregators. -->
 
 - [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide. We provide open and unfiltered access to worldwide air traffic data.
-- [ADSB One](https://adsb.one) - Open source ADS-B aggregator.
-- [ADSB.lol](https://adsb.lol) - The first entirely open source flight tracker + [API](https://api.adsb.lol/). Reproducible deployment from scratch using Kubernetes.
+- [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
+- [ADSB.lol](https://adsb.lol) - Entirely open-source flight tracker + [API](https://api.adsb.lol/) for reproducible deployment from scratch using Kubernetes.
 
 ### Community driven
 
