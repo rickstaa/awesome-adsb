@@ -1,4 +1,5 @@
 <!--lint disable awesome-git-repo-age-->
+<!--TODO: Remove when repository is older than 30 days. -->
 
 <!-- GITHUB LOGO PLACEHOLDER -->
 
@@ -37,8 +38,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Books and Articles](#books-and-articles)
 - [ADS-B Aggregators](#ads-b-aggregators)
   - [Non-profits](#non-profits)
-  - [Open Data](#open-data)
-  - [Open source](#open-source)
+  - [Open Data initiatives](#open-data-initiatives)
+  - [Open source orientated](#open-source-orientated)
   - [Community driven](#community-driven)
   - [Commercial](#commercial)
   - [Other](#other)
@@ -77,14 +78,14 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 - [Opensky Network](https://opensky-network.org) - A non-profit that collects air-traffic data and makes it available unfiltered and raw for academic and institutional researchers.
 
-### Open Data
+### Open Data initiatives
 
 <!--- List aggregators that make data freely available through Open Licenses. https://resources.data.gov/open-licenses/ -->
 
 - [ADSB.lol](https://adsb.lol) - A 100% open-source flight tracker with [free API data](https://api.adsb.lol/) licensed under [ODbL](https://opendatacommons.org/licenses/odbl/summary/). [Reproducible deployment from scratch](https://github.com/adsblol/infra) using Kubernetes.
 - [ADSBHub.org](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters and radio amateurs. Data can be used without restrictions if you share data from at least one ADS-B station.
 
-### Open source
+### Open source orientated
 
 <!-- List open source ADS-B aggregators. -->
 
@@ -103,15 +104,21 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List commercial ADS-B aggregators. -->
 
-> **Warning**
-> The commercial aggregators below adhere to the [FAA](https://www.faa.gov/)'s [Aircraft Tail Number Blocking/Unblocking list](https://www.faa.gov/pilots/ladd/request) list. Therefore, the data found on these platforms is filtered and may not include all data found on the aggregators above.
+<!--TODO: Remove when awesome-lint/issues/160 is fixed. -->
+<!--lint ignore no-undefined-references-->
 
-- [FlightRadar24](https://www.flightradar24.com) - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
-- [FlightAware](https://flightaware.com) - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products.
-- [RadarBox](https://www.radarbox.com) - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking.
+- [FlightRadar24](https://www.flightradar24.com) - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map[^1].
+- [FlightAware](https://flightaware.com) - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products[^1].
+- [RadarBox](https://www.radarbox.com) - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking[^1].
 - [ADS-B Exchange](https://www.adsbexchange.com/) - A flight tracking company that offers high fidelity, stable, and secure flight tracking service. It was started by volunteers and flight enthusiasts but was recently acquired by [JETNET](https://www.jetnet.com/).
-- [PlaneFinder.net](https://planefinder.net) - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
+- [PlaneFinder.net](https://planefinder.net) - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination[^1].
 - [AvDelphi](https://www.avdelphi.com) - An aviation data and services company that shows airframes, registrations, types, airports and flights, radar and nav points, and owner and flight histories.
+- [RadarVirtuel](https://www.radarvirtuel.com) - A flight data collector that offers premium features. Its primary focus is collecting information about traffic around smaller airports worldwide.
+
+<!--TODO: Remove when awesome-lint/issues/160 is fixed. -->
+<!--lint ignore no-undefined-references-->
+
+[^1]: Adheres to the [FAA](https://www.faa.gov/)'s [Aircraft Tail Number Blocking/Unblocking list](https://www.faa.gov/pilots/ladd/request) list. Therefore, the data found on this platform is filtered and may not include all data found on other aggregators.
 
 ### Other
 
@@ -144,6 +151,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 - [FlightAware ADS-B USB receivers](https://flightaware.store/collections/radio-dongles) - ADS-B USB receivers made by FlightAware.
 - [AirNav RadarBox ADS-B USB receivers](https://www.radarbox.com/store) - ADS-B USB receivers made by RadarBox.
+- [RTL-SDR DONGLES](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/) - A premium RTL-SDR dongle provider focused on maintaining fair retail pricing.
 
 ### Filters
 
