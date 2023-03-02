@@ -33,8 +33,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ## Contents
 
-- [Docs \& Quickstarts](#docs--quickstarts)
-- [Books \& Articles](#books--articles)
+- [Docs and Quickstarts](#docs-and-quickstarts)
+- [Books and Articles](#books-and-articles)
 - [ADS-B Aggregators](#ads-b-aggregators)
   - [Non-profits](#non-profits)
   - [Open Data](#open-data)
@@ -51,7 +51,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- CONTENT -->
 
-## Docs & Quickstarts
+## Docs and Quickstarts
 
 <!-- List ADS-B documentation and quickstarter guides -->
 
@@ -60,7 +60,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [PiAware ADS-B tutorial](https://flightaware.com/adsb/piaware/build/) - FlightAware's ADS-B setup tutorial.
 - [ADSB-B transponders guide](https://www.sportys.com/blog/ads-b-out-questions-1090-978/) - A guide explaining the difference between 978 and 1090 MHz transponders.
 
-## Books & Articles
+## Books and Articles
 
 <!-- List interesting ADS-B books and articles -->
 
