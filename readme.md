@@ -41,6 +41,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
   - [Open source](#open-source)
   - [Community driven](#community-driven)
   - [Commercial](#commercial)
+  - [Other](#other)
 - [Software](#software)
 - [Hardware](#hardware)
   - [SBC](#sbc)
@@ -111,6 +112,10 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [ADS-B Exchange](https://www.adsbexchange.com/) - A flight tracking company that offers high fidelity, stable, and secure flight tracking service. It was started by volunteers and flight enthusiasts but was recently acquired by [JETNET](https://www.jetnet.com/).
 - [PlaneFinder.net](https://planefinder.net) - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
 - [AvDelphi](https://www.avdelphi.com) - An aviation data and services company that shows airframes, registrations, types, airports and flights, radar and nav points, and owner and flight histories.
+
+### Other
+
+- [Airframes.io](https://app.airframes.io/) - Airframes is an aircraft-related aggregation service that receives ACARS, VDL, HFDL, and SATCOM data from volunteers worldwide. It collaborates closely with ADS-B aggregators and works with ADS-B data internally.
 
 ## Software
 
