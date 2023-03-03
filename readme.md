@@ -44,6 +44,10 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
   - [Commercial](#commercial)
   - [Other](#other)
 - [Software](#software)
+  - [General](#general)
+  - [Feeding](#feeding)
+  - [Visualisation](#visualisation)
+  - [Social](#social)
 - [Hardware](#hardware)
   - [SBC](#sbc)
   - [Receivers](#receivers)
@@ -99,19 +103,20 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [TheAirTraffic](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
 - [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with 1 million photos and information on 50000 aircraft.
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
+- [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
 
 ### Commercial
 
 <!-- List commercial ADS-B aggregators. -->
 
 <!--TODO: Remove when awesome-lint/issues/160 is fixed. -->
-<!--lint ignore no-undefined-references-->
+<!--lint ignore no-undefined-references awesome-list-item-->
 
-- [FlightRadar24](https://www.flightradar24.com) - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map[^1].
-- [FlightAware](https://flightaware.com) - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products[^1].
-- [RadarBox](https://www.radarbox.com) - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking[^1].
+- [FlightRadar24](https://www.flightradar24.com)[^1] - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
+- [FlightAware](https://flightaware.com)[^1] - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products.
+- [RadarBox](https://www.radarbox.com)[^1] - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking.
 - [ADS-B Exchange](https://www.adsbexchange.com/) - A flight tracking company that offers high fidelity, stable, and secure flight tracking service. It was started by volunteers and flight enthusiasts but was recently acquired by [JETNET](https://www.jetnet.com/).
-- [PlaneFinder.net](https://planefinder.net) - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination[^1].
+- [PlaneFinder.net](https://planefinder.net)[^1] - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
 - [AvDelphi](https://www.avdelphi.com) - An aviation data and services company that shows airframes, registrations, types, airports and flights, radar and nav points, and owner and flight histories.
 - [RadarVirtuel](https://www.radarvirtuel.com) - A flight data collector that offers premium features. Its primary focus is collecting information about traffic around smaller airports worldwide.
 
@@ -128,14 +133,26 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- list ADS-B software, apps and docker containers. -->
 
-- [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
+### General
+
 - [readsb](https://github.com/wiedehopf/readsb) - ADS-B decoder swiss knife.
-- [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
-- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
+
+### Feeding
+
 - [sdr-enthusiasts/docker-multifeeder](https://github.com/sdr-enthusiasts/docker-multifeeder) - Feed multiple ADS-B and MLAT aggregators from a single container.
 - [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) - Easy to use feeder install script for feeding to adsb.fi.
 - [adsblol/feed](https://github.com/adsblol/feed) - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
+
+### Visualisation
+
+- [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
+- [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
+
+### Social
+
+- [docker-planefence](https://github.com/kx1t/docker-planefence) - A little tool that can be used to log, display and tweet the aircraft that come within range of your receiver (i.e. the fence).
+- [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 
 ## Hardware
 
