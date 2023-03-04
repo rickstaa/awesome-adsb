@@ -75,7 +75,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ## ADS-B Aggregators
 
 > **Note**
-> The aggregators below are displayed per category based on the number of aircraft they tracked on 27-02-2023. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
+> The aggregators below are displayed per category based on the number of feeders on 04-03-2023. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
 
 <!-- List ADS-B aggregators. -->
 
@@ -84,15 +84,15 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!-- List open source ADS-B aggregators. -->
 
 - [adsb.fi](https://adsb.fi) - A community-driven flight tracker started by the original ads-exchange team to provide open and unfiltered access to worldwide air traffic data.
-- [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) flight tracking data via a [free API](https://api.adsb.lol/).
 - [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
+- [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) flight tracking data via a [free API](https://api.adsb.lol/).
 
 ### Community driven
 
 <!-- List community driven ADS-B aggregators. -->
 
-- [TheAirTraffic](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
 - [ADSBHub.org](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters, radio amateurs and professionals interested in developing ADS-B-related software.
+- [TheAirTraffic](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
 - [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with a large collection of aircraft photos and information.
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
 - [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
@@ -110,8 +110,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--TODO: Remove when awesome-lint/issues/160 is fixed. -->
 <!--lint ignore no-undefined-references awesome-list-item-->
 
-- [FlightRadar24](https://www.flightradar24.com)[^1] - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
 - [FlightAware](https://flightaware.com)[^1] - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products.
+- [FlightRadar24](https://www.flightradar24.com)[^1] - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
 - [RadarBox](https://www.radarbox.com)[^1] - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking.
 - [ADS-B Exchange](https://www.adsbexchange.com/) - A flight tracking company that offers high fidelity, stable, and secure flight tracking service. It was started by volunteers and flight enthusiasts but was recently acquired by [JETNET](https://www.jetnet.com/).
 - [PlaneFinder.net](https://planefinder.net)[^1] - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
