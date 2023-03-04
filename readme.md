@@ -74,26 +74,17 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ## ADS-B Aggregators
 
+> **Note**
+> The aggregators below are displayed per category based on the number of aircraft they tracked on 27-02-2023. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
+
 <!-- List ADS-B aggregators. -->
-
-### Non-profits
-
-<!-- List non-profit ADS-B aggregators. -->
-
-- [Opensky Network](https://opensky-network.org) - A non-profit that collects air-traffic data and makes it available unfiltered and raw for academic and institutional researchers.
-
-### Open Data initiatives
-
-<!--- List aggregators that make data freely available through Open Licenses. https://resources.data.gov/open-licenses/ -->
-
-- [ADSB.lol](https://adsb.lol) - A 100% open-source flight tracker with [free API data](https://api.adsb.lol/) licensed under [ODbL](https://opendatacommons.org/licenses/odbl/summary/). [Reproducible deployment from scratch](https://github.com/adsblol/infra) using Kubernetes.
-- [ADSBHub.org](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters and radio amateurs. Data can be used without restrictions if you share data from at least one ADS-B station.
 
 ### Open source orientated
 
 <!-- List open source ADS-B aggregators. -->
 
-- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide. We provide open and unfiltered access to worldwide air traffic data.
+- [adsb.fi](https://adsb.fi) - A community-driven flight tracker started by the original ads-exchange team to provide open and unfiltered access to worldwide air traffic data.
+- [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) flight tracking data via a [free API](https://api.adsb.lol/).
 - [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
 
 ### Community driven
@@ -101,9 +92,16 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!-- List community driven ADS-B aggregators. -->
 
 - [TheAirTraffic](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
-- [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with 1 million photos and information on 50000 aircraft.
+- [ADSBHub.org](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters, radio amateurs and professionals interested in developing ADS-B-related software.
+- [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with a large collection of aircraft photos and information.
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
 - [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
+
+### Non-profits
+
+<!-- List non-profit ADS-B aggregators. -->
+
+- [Opensky Network](https://opensky-network.org) - The OpenSky Network is a non-profit association based in Switzerland that provides open access to flight tracking control data. It was set up as a research project by several universities and government entities to improve the security, reliability and efficiency of the airspace.
 
 ### Commercial
 
