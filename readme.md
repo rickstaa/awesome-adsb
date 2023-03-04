@@ -37,10 +37,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Docs and Quickstarts](#docs-and-quickstarts)
 - [Books and Articles](#books-and-articles)
 - [ADS-B Aggregators](#ads-b-aggregators)
-  - [Non-profits](#non-profits)
-  - [Open Data initiatives](#open-data-initiatives)
   - [Open source orientated](#open-source-orientated)
   - [Community driven](#community-driven)
+  - [Non-profits](#non-profits)
   - [Commercial](#commercial)
   - [Other](#other)
 - [Software](#software)
@@ -74,6 +73,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ## ADS-B Aggregators
 
+<!--lint ignore double-link-->
+
 > **Note**
 > The aggregators below are displayed per category based on the number of feeders on 04-03-2023. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
 
@@ -83,7 +84,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List open source ADS-B aggregators. -->
 
-- [adsb.fi](https://adsb.fi) - A community-driven flight tracker started by the original ads-exchange team to provide open and unfiltered access to worldwide air traffic data.
+- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
 - [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
 - [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) flight tracking data via a [free API](https://api.adsb.lol/).
 
