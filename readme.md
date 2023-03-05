@@ -37,10 +37,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Docs and Quickstarts](#docs-and-quickstarts)
 - [Books and Articles](#books-and-articles)
 - [ADS-B Aggregators](#ads-b-aggregators)
-  - [Non-profits](#non-profits)
-  - [Open Data initiatives](#open-data-initiatives)
   - [Open source orientated](#open-source-orientated)
   - [Community driven](#community-driven)
+  - [Non-profits](#non-profits)
   - [Commercial](#commercial)
   - [Other](#other)
 - [Software](#software)
@@ -74,36 +73,36 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ## ADS-B Aggregators
 
+<!--lint ignore double-link-->
+
+> **Note**
+> The aggregators below are displayed per category based on the number of feeders [on 27-02-2023](https://vmst.io/@ottergoose/109937649240642289). If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
+
 <!-- List ADS-B aggregators. -->
-
-### Non-profits
-
-<!-- List non-profit ADS-B aggregators. -->
-
-- [Opensky Network](https://opensky-network.org) - A non-profit that collects air-traffic data and makes it available unfiltered and raw for academic and institutional researchers.
-
-### Open Data initiatives
-
-<!--- List aggregators that make data freely available through Open Licenses. https://resources.data.gov/open-licenses/ -->
-
-- [ADSB.lol](https://adsb.lol) - A 100% open-source flight tracker with [free API data](https://api.adsb.lol/) licensed under [ODbL](https://opendatacommons.org/licenses/odbl/summary/). [Reproducible deployment from scratch](https://github.com/adsblol/infra) using Kubernetes.
-- [ADSBHub.org](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters and radio amateurs. Data can be used without restrictions if you share data from at least one ADS-B station.
 
 ### Open source orientated
 
 <!-- List open source ADS-B aggregators. -->
 
-- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide. We provide open and unfiltered access to worldwide air traffic data.
+- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
 - [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
+- [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) flight tracking data via a [free API](https://api.adsb.lol/).
 
 ### Community driven
 
 <!-- List community driven ADS-B aggregators. -->
 
+- [ADSBHub.org](https://www.adsbhub.org) - A service for real-time ADS-B data sharing and exchange between plane tracking enthusiasts, plane spotters, radio amateurs and professionals interested in developing ADS-B-related software.
 - [TheAirTraffic](https://theairtraffic.com) - A community-driven ADS-B aggregator dedicated to keeping the air-tracking data on their site open and unfiltered.
-- [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with 1 million photos and information on 50000 aircraft.
+- [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with a large collection of aircraft photos and information.
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
 - [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
+
+### Non-profits
+
+<!-- List non-profit ADS-B aggregators. -->
+
+- [Opensky Network](https://opensky-network.org) - The OpenSky Network is a non-profit association based in Switzerland that provides open access to flight tracking control data. It was set up as a research project by several universities and government entities to improve the security, reliability and efficiency of the airspace.
 
 ### Commercial
 
@@ -112,8 +111,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--TODO: Remove when awesome-lint/issues/160 is fixed. -->
 <!--lint ignore no-undefined-references awesome-list-item-->
 
-- [FlightRadar24](https://www.flightradar24.com)[^1] - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
 - [FlightAware](https://flightaware.com)[^1] - An American multinational technology company that provides real-time, historical, and predictive flight tracking data and products.
+- [FlightRadar24](https://www.flightradar24.com)[^1] - A Swedish internet-based service that shows real-time aircraft flight tracking information on a map.
 - [RadarBox](https://www.radarbox.com)[^1] - A Tampa-based global flight tracking and data services company that offers worldwide commercial and general aviation flight tracking.
 - [ADS-B Exchange](https://www.adsbexchange.com/) - A flight tracking company that offers high fidelity, stable, and secure flight tracking service. It was started by volunteers and flight enthusiasts but was recently acquired by [JETNET](https://www.jetnet.com/).
 - [PlaneFinder.net](https://planefinder.net)[^1] - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
