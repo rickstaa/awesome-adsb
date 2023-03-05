@@ -136,6 +136,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 - [readsb](https://github.com/wiedehopf/readsb) - ADS-B decoder swiss knife.
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
+- [junzis/pyModeS](https://github.com/junzis/pyModeS) - A python decoder for Mode S and ADS-B signals.
 
 ### Feeding
 
