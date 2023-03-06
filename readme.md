@@ -47,6 +47,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
   - [Feeding](#feeding)
   - [Visualisation](#visualisation)
   - [Browser extensions](#browser-extensions)
+  - [Apps](#apps)
   - [Social](#social)
 - [Hardware](#hardware)
   - [SBC](#sbc)
@@ -153,6 +154,10 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ### Browser extensions
 
 - [RadarAtlas](https://chrome.google.com/webstore/detail/radaratlas/kgionpkdifedafldjflcbeojkencnaja) - An ADSB & tar1090 add on that makes it fun and accessible to track the most interesting aircraft in the world.
+
+### Apps
+
+- [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
 
 ### Social
 
