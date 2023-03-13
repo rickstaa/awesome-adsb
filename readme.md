@@ -139,6 +139,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ### General
 
 - [readsb](https://github.com/wiedehopf/readsb) - ADS-B decoder swiss knife.
+- [dump1090](https://github.com/MalcolmRobb/dump1090) - A simple Mode S decoder for RTLSDR devices.
+- [flightmon](https://github.com/mik3y/flightmon) - Simple command-line "GUI" for showing current dump1090/readsb data.
 - [sdr-enthusiasts/plane-alert-db](https://github.com/sdr-enthusiasts/plane-alert-db) - A list of exciting aircraft - Governments, Dictators, Military, Historical and just plain odd.
 - [junzis/pyModeS](https://github.com/junzis/pyModeS) - A python decoder for Mode S and ADS-B signals.
 
