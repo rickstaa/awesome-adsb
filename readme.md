@@ -1,6 +1,3 @@
-<!--lint disable awesome-git-repo-age-->
-<!--TODO: Remove when repository is older than 30 days. -->
-
 <!-- GITHUB LOGO PLACEHOLDER -->
 
 <div align="center">
