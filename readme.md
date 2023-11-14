@@ -29,9 +29,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- TOC -->
 
+<!-- omit in toc -->
 ## Contents
 
-- [Contents](#contents)
 - [Docs and Quickstarts](#docs-and-quickstarts)
 - [Books and Articles](#books-and-articles)
 - [ADS-B Aggregators](#ads-b-aggregators)
@@ -53,8 +53,6 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
   - [Filters](#filters)
   - [Antennas](#antennas)
 - [Follow](#follow)
-- [Contributing](#contributing)
-  - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -213,12 +211,14 @@ Who else should we [be following](https://github.com/rickstaa/awesome-adsb/issue
 
 <!-- REPO INFO -->
 
+<!-- omit in toc -->
 ## Contributing
 
 Contributions of any kind are welcome 💙! Please check out the [contributing guidelines](contributing.md).
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+<!-- omit in toc -->
 ### Contributors
 
 <!--lint ignore double-link-->
