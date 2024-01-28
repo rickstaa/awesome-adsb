@@ -6,4 +6,4 @@
 *.code-workspace
 
 # Awesome CI
-ab-results-*
+ab-results-*.json
