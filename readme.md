@@ -21,11 +21,11 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
   <img width="600" src="https://www.sportys.com//media/wysiwyg/blog/13_-_Navigating_and_Automation_in_the_21st_Century.png" />
 </a>
 
+</div>
+
 <!-- description -->
 
 **Automatic Dependent Surveillance–Broadcast (ADS-B)** is a surveillance technology and form of Electronic [Conspicuity](https://en.wikipedia.org/wiki/Airborne_collision_avoidance_system#Aircraft_collision_avoidance) in which an [aircraft](https://en.wikipedia.org/wiki/Aircraft) determines its position via [satellite navigation](https://en.wikipedia.org/wiki/Satellite_navigation) or other sensors and periodically broadcasts it, enabling it to be tracked.
-
-</div>
 
 <!-- TOC -->
 
