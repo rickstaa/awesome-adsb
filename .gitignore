@@ -4,3 +4,6 @@
 # IDE
 .vscode
 *.code-workspace
+
+# Awesome CI
+ab-results-*
