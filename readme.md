@@ -155,10 +155,6 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
 - [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
-### Browser extensions
-
-- [RadarAtlas](https://chrome.google.com/webstore/detail/radaratlas/kgionpkdifedafldjflcbeojkencnaja) - An ADSB & tar1090 add on that makes it fun and accessible to track the most interesting aircraft in the world.
-
 ### Apps
 
 - [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
