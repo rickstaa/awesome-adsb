@@ -76,9 +76,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **Note**
-> The aggregators below are displayed per category based on the number of feeders on **27-02-2023**. You can check out real-time stats about all listed aggregators by clicking the Grafana button below. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
-
-[![Grafana](https://img.shields.io/badge/Aggregators%20grafana%20dashboard-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://dashboards.adsb.cool/aggregators)
+> The aggregators below are displayed per category based on the number of feeders on **27-02-2023**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
 
 <!-- List ADS-B aggregators. -->
 
