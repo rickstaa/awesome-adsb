@@ -156,6 +156,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 ### Apps
 
 - [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
+- [AirPing](https://airping.app) - An iOS app that turns your tar1090 or readsb instance into a mobile flight tracker
 
 ### Social
 
