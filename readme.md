@@ -76,7 +76,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **Note**
-> The aggregators below are displayed per category based on the number of feeders on **27-02-2023**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
+> The aggregators below are displayed per category based on the number of feeders on **17-01-2026**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
 
 <!-- List ADS-B aggregators. -->
 
@@ -84,8 +84,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List open source ADS-B aggregators. -->
 
-- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
+- [airplanes.live](https://airplanes.live) - The mission of Airplanes.Live is to aggregate and provide access to a comprehensive repository of unfiltered aviation data.  Offers map and free API.
 - [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
+- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
 - [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history).
 
 ### Community driven
