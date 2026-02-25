@@ -44,9 +44,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
   - [General](#general)
   - [Feeding](#feeding)
   - [Visualisation](#visualisation)
-  - [Browser extensions](#browser-extensions)
   - [Apps](#apps)
   - [Social](#social)
+- [ADS-B Derived Data](#ads-b-derived-data)
 - [Hardware](#hardware)
   - [SBC](#sbc)
   - [Receivers](#receivers)
@@ -164,6 +164,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
 
 ## ADS-B Derived Data
+
 - [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
 
 ## Hardware
