@@ -13,7 +13,7 @@
 
 <!-- subtitle -->
 
-A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) tools, projects, docker images, resources and other shiny things 📡.
+A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) tools, projects, Docker images, resources and other shiny things 📡.
 
 <!-- image -->
 
@@ -44,9 +44,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
   - [General](#general)
   - [Feeding](#feeding)
   - [Visualisation](#visualisation)
-  - [Browser extensions](#browser-extensions)
   - [Apps](#apps)
   - [Social](#social)
+- [ADS-B Derived Data](#ads-b-derived-data)
 - [Hardware](#hardware)
   - [SBC](#sbc)
   - [Receivers](#receivers)
@@ -60,7 +60,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List ADS-B documentation and quickstarter guides -->
 
-- [ADS-B docker guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
+- [ADS-B Docker guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
 - [ADS-B equipment guide](https://sdr-enthusiasts.gitbook.io/ads-b/intro/equipment-needed) - A excellent ADS-B hardware guide written by the community.
 - [PiAware ADS-B tutorial](https://flightaware.com/adsb/piaware/build/) - FlightAware's ADS-B setup tutorial.
 - [ADSB-B transponders guide](https://www.sportys.com/blog/ads-b-out-questions-1090-978/) - A guide explaining the difference between 978 and 1090 MHz transponders.
@@ -158,8 +158,8 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### Apps
 
-- [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
-- [AirPing](https://airping.app) - An iOS app that turns your tar1090 or readsb instance into a mobile flight tracker
+- [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An Android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
+- [AirPing](https://airping.app) - An iOS app that turns your tar1090 or readsb instance into a mobile flight tracker.
 
 ### Social
 
