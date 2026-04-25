@@ -156,6 +156,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
 - [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 - [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
+- [blindp3w/readsbstats](https://github.com/blindp3w/readsbstats) - Self-hosted flight history and statistics web UI for readsb. Stores positions in SQLite on the receiver, with per-flight track maps, statistics dashboard, flagged aircraft gallery, watchlist, Telegram bot, and receiver metrics — no Grafana required.
 
 ### Apps
 
