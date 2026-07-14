@@ -169,6 +169,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ## ADS-B Derived Data
 - [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
+- [FlightFinder](https://himaxym.com) - Aviation-safety database with tail-number dossiers, live aircraft positions, sighting history and observed-route statistics derived from community ADS-B data provided by the [ADSBlol](https://adsb.lol/) initiative.
 
 ## Hardware
 
