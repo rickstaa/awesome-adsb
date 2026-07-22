@@ -99,7 +99,6 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
 - [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
 - [adsb.chaos-consulting.de](https://adsb.chaos-consulting.de) - A non-commercial tracker for flights, ships, and radiosondes managed by enthusiasts. Focuses on the contributions of individual feeding stations.
-- [Overhead](https://overheadexplorer.com/aviation-radar.html) - A free, no-signup live ADS-B flight radar in the browser, built on the airplanes.live feed with a Leaflet map.
 
 ### Non-profits
 
@@ -157,6 +156,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
 - [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 - [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
+- [Overhead](https://overheadexplorer.com/aviation-radar.html) - A free, no-signup live ADS-B flight radar in the browser, built on the airplanes.live feed with a Leaflet map.
 
 ### Apps
 
