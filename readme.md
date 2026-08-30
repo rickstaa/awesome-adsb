@@ -99,6 +99,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
 - [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
 - [adsb.chaos-consulting.de](https://adsb.chaos-consulting.de) - A non-commercial tracker for flights, ships, and radiosondes managed by enthusiasts. Focuses on the contributions of individual feeding stations.
+- [map.flights](https://map.flights) - An independent flight tracker with its own feeder network on top of community data. Offers a free live map, playback, per-station statistics and a public API; new feeders are welcome.
 
 ### Non-profits
 
