@@ -185,6 +185,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [FlightAware ADS-B USB receivers](https://flightaware.store/collections/radio-dongles) - ADS-B USB receivers made by FlightAware.
 - [AirNav RadarBox ADS-B USB receivers](https://www.radarbox.com/store) - ADS-B USB receivers made by RadarBox.
 - [RTL-SDR DONGLES](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/) - A premium RTL-SDR dongle provider focused on maintaining fair retail pricing.
+- [ADS-B Scope](https://github.com/jstockdale/T-Display-P4/tree/adsb) - Open-source firmware that turns a LILYGO T-Display-P4 with an RTL-SDR into a portable 1090 MHz ADS-B receiver.
 
 ### Filters
 
