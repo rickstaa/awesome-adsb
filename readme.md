@@ -161,6 +161,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 - [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An Android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
 - [AirPing](https://airping.app) - An iOS app that turns your tar1090 or readsb instance into a mobile flight tracker.
+- [RF Sentinel](https://github.com/CIS-C0/RFSentinel) - Android app that decodes ADS-B from an RTL-SDR dongle over USB OTG without root, or reads adsb.fi / adsb.lol, and flags law-enforcement aircraft overhead.
 
 ### Social
 
