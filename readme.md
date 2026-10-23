@@ -161,6 +161,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 - [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An Android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
 - [AirPing](https://airping.app) - An iOS app that turns your tar1090 or readsb instance into a mobile flight tracker.
+- [FlightTrack](https://getapps.cafe/app/flighttrack) - A macOS and Windows desktop app that shows live OpenSky Network traffic on a 3D globe, with filters and an aircraft detail panel.
 
 ### Social
 
