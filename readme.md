@@ -99,6 +99,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [Plane.watch](https://www.plane.watch) - A community hosted flight tracker.
 - [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
 - [adsb.chaos-consulting.de](https://adsb.chaos-consulting.de) - A non-commercial tracker for flights, ships, and radiosondes managed by enthusiasts. Focuses on the contributions of individual feeding stations.
+- [FlyItalyADSB](https://flyitalyadsb.com) - A community-driven ADS-B and MLAT aggregator with about 3,200 receivers worldwide that publishes open, unfiltered data under CC BY-SA 4.0. Offers a live map and a REST API with a free key; commercial use is allowed within the plan limits.
 
 ### Non-profits
 
