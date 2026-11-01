@@ -41,4 +41,4 @@ jobs:
       - name: "install awesome-bot"
         run: gem install awesome_bot
       - name: "linting: ${{ matrix.files }}"
-        run: awesome_bot --allow 403 --allow-redirect --allow-dupe ${{ matrix.files }}
+        run: awesome_bot --allow 403 --allow-redirect --allow-dupe --white-list github.com/rickstaa/awesome-adsb/stargazers ${{ matrix.files }}
