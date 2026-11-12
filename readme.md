@@ -120,6 +120,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [PlaneFinder.net](https://planefinder.net)[^1] - A United Kingdom-based real-time flight tracking service shows global flight data like flight numbers, how fast an aircraft moves, elevation, and travel destination.
 - [AvDelphi](https://www.avdelphi.com) - An aviation data and services company that shows airframes, registrations, types, airports and flights, radar and nav points, and owner and flight histories.
 - [RadarVirtuel](https://www.radarvirtuel.com) - A flight data collector that offers premium features. Its primary focus is collecting information about traffic around smaller airports worldwide.
+- [PlaneTrack](https://planetrack.ai) - An independent, commercial flight tracker with a free live map, a paid tier and an API. Stations can feed without an account, and owners who claim theirs get Premium free while it feeds.
 
 <!--TODO: Remove when awesome-lint/issues/160 is fixed. -->
 <!--lint ignore no-undefined-references-->
